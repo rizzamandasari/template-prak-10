@@ -4,7 +4,7 @@
       "name": "Jurnal01a",
       "setup": "javac Jurnal01.java",
       "run": "java Jurnal01",
-      "input": "10",
+      "input": "",
       "output": "* * * * * \n * * * * *\n* * * * * \n * * * * *\n* * * * * \n * * * * *",
       "comparison": "included",
       "timeout": 1,

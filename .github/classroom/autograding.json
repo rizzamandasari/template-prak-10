@@ -66,7 +66,7 @@
       "setup": "javac TP02.java",
       "run": "java TP02",
       "input": "5",
-      "output": "    *\n   **\n  ***\n ****\n*****",
+      "output": "1    \n 2   \n  3  \n   4 \n    5\n   4 \n  3  \n 2   \n1    \n",
       "comparison": "included",
       "timeout": 10,
       "points": 5
@@ -76,7 +76,7 @@
       "setup": "javac TP02.java",
       "run": "java TP02",
       "input": "3",
-      "output": "  *\n **\n***",
+      "output": "1  \n 2 \n  3\n 2 \n1  ",
       "comparison": "included",
       "timeout": 10,
       "points": 5
